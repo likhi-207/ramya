@@ -1,0 +1,8 @@
+file = open ("./sample.txt","a")
+#firstLine = file.readline()
+#names = file.readlines()
+#print(firstLine)
+#print(names)
+file.write("shiro" )
+file.close()
+print()
