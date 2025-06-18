@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Cricket from './Cricket';
+import Cricket from './Cricket'
 
 function App() {
   return (
